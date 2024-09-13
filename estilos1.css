@@ -8,24 +8,6 @@ body {
   }
 
 
-.content {
-  padding: 20px;
-  height: 2000px; 
-}
-body::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    width: 100%; 
-    background-image: url(''); 
-    background-size: contain; 
-    background-position: center; 
-    background-repeat: no-repeat; 
-    z-index: -1;
-}
-
 @keyframes parpadeo  {
     0%, 41%, 45%, 47%, 49.5%, 100%  { 
         opacity: 1;
