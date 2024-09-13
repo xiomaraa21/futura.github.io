@@ -39,8 +39,8 @@ body::before {
 .slider-container {
     position: relative;
     width: 100%;
-    margin: 0px auto; 
-    padding: 0%;
+    margin: 0 auto; 
+    padding: 0;
     overflow: hidden;
   }
 
